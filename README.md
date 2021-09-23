@@ -15,7 +15,7 @@
 
 ## Overview
 
-This is University Semester Course ( Computer Organization and Assembly Language ) Project Complete with Cpp language. You can check and use it by clone the repository and download the code all file. For Better experience and work you can use VS Code  and CPP [MinGW](https://sourceforge.net/projects/mingw-w64/) and install by watching the youtube tutorials that cam help you alot. Because i'm using some built in CPP function that can work in Cpp compiler environment. i hope you  Undestand. 
+This is University Semester Course ( Computer Organization and Assembly Language ) Project Complete with Cpp language. You can check and use it by clone the repository and download the code all file. For Better experience and work you can use VS Code  and CPP [MinGW](https://sourceforge.net/projects/mingw-w64/) and install by watching the youtube tutorials that can help you alot. Because i'm using some built in CPP function that can work in Cpp compiler environment. i hope you  Undestand. 
 
 ### The challenge
 
